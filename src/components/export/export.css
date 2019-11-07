@@ -1,0 +1,7 @@
+.StyleButton{    
+    border: 0.5px rgb(185, 185, 185) solid;
+    border-radius: 10px 10px 10px 10px;
+    margin-top:2%;
+    width:200px;
+    height: 45px;
+}
