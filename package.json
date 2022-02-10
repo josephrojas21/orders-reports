@@ -10,7 +10,7 @@
     "export-from-json": "^1.1.4",
     "mdbreact": "^4.22.0",
     "node-modules": "^1.0.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
     "prop-types": "^15.7.2",
